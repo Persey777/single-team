@@ -1,0 +1,10 @@
+@media screen (max-width: 900px) {
+	#wrapper, header {
+		width: 100%;
+	}
+
+	.content-text {
+		float: left;
+		border: 1px solid red;
+	}
+}
